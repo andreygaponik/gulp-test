@@ -1,0 +1,12 @@
+p {
+  color: #000;
+}
+
+h1 {
+  font-size: 34px;
+}
+body {
+  background: #ccc;
+  box-shadow: 5px 5px 5px #000;
+  box-sizing: border-box;
+}
